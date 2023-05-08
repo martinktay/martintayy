@@ -1,4 +1,4 @@
-<h1>Hi, I'm Martin Tay! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist/ML Engineer</a></h1>
+<h1>Hi, I'm Martin Tay! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Data Scientist/ML Engineer</a></h1><p>Enthusiastic Computer and Data Professional with a passion to uncover business opportunities with data and insights</p>
 
 <h2>👨‍💻 ML Projects:</h2>
 
