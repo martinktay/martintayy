@@ -3,13 +3,13 @@
 <h2>👨‍💻 ML Projects:</h2>
 
 - <b>British Airways Data Science Virtual Experience Programme (Forage)</b>
-  - [Web Scraping to Gain Company Insights and Predicting Consumer Buying Behavior](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Web Scraping to Gain Company Insights and Predicting Consumer Buying Behavior](https://github.com/martintayy/britishairlinereview)
 - <b>Hospital Readmission of Diabetic Patients</b>
-  - [Hospital Readmission of Diabetic Patients after 30 Days using DT, RF, LR, SVM, MLP Classifiers](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Hospital Readmission of Diabetic Patients after 30 Days using DT, RF, LR, SVM, MLP Classifiers](https://github.com/martintayy/HospitalReadmission)
 - <b>Vertical Search Engine</b>
-  - [Design and Implementation of Web Crawler and Clustering with K-Means](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Design and Implementation of Web Crawler and Clustering with K-Means](https://github.com/martintayy/VerticalSearchEngine)
 - <b>Prediction of Cardiovascular Disease with Classification Algorithms</b>
-  - [Heart Disease Prediction with DT, SVM, Logistic Regression](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Heart Disease Prediction with DT, SVM, Logistic Regression](https://github.com/martintayy/prediction-of-cardiovascular-disease)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -18,7 +18,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/martin-k-tay/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
